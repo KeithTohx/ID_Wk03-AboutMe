@@ -1,0 +1,18 @@
+h1
+h3 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    justify-content: center;
+}
